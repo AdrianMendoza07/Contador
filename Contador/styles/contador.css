@@ -1,0 +1,45 @@
+
+.cnt{
+    background-color: aquamarine;
+
+}
+
+.initialNum{
+    display: flex;
+    font-size: 50px;
+    flex-direction: row;
+    justify-content: center;
+    margin: 100px;
+
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: row;
+    align-items: stretch;
+
+}
+
+.addButton{
+    height: 57px;
+    width: 137px;
+    background-color: deepskyblue;
+    border-radius: 35px;
+}
+
+.resetButton{
+    height: 57px;
+    width: 137px;
+    background-color: deepskyblue;
+    border-radius: 35px;
+
+}
+
+.decreaseButton{
+    height: 57px;
+    width: 137px;
+    background-color: deepskyblue;    
+    border-radius: 35px;
+
+}
